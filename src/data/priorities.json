@@ -1,0 +1,23 @@
+
+[
+  {
+    "label": "All Priorities",
+    "value": "all",
+    "activeClass": "bg-indigo-500 text-white"
+  },
+  {
+    "label": "High",
+    "value": "high",
+    "activeClass": "bg-indigo-500 text-white"
+  },
+  {
+    "label": "Medium",
+    "value": "medium",
+    "activeClass": "bg-indigo-500 text-white"
+  },
+  {
+    "label": "Low",
+    "value": "low",
+    "activeClass": "bg-indigo-500 text-white"
+  }
+]
